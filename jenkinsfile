@@ -16,7 +16,7 @@ pipeline {
             steps {
                 echo 'Deploying....'
                 echo 'this is from manager'
-                echo 'this is not correct'
+                echo 'this is not correct1'
             }
         }
     }
